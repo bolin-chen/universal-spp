@@ -1,2 +1,2 @@
 # universal-spp
-The code will be uploaded soon.
+A universal post-processing method to enhance image steganography in both spatial and JPEG domain.
